@@ -1,0 +1,42 @@
+body{
+    background-image: url(./images/bdimg.jpg);
+    background-size: cover;
+    margin: 2em;
+} 
+#hi, #hiii{
+    text-align:center; 
+    text-decoration: black; 
+    font-size: 25px; 
+    font-weight: bolder ; 
+    font-family: 'Lobster', cursive;
+    padding: 10px;
+    
+}  
+
+/* #sec{
+    font-size: 25px; 
+    word-spacing: 10px; 
+    word-break: normal; 
+    padding: 2em ;
+    margin: 2em;
+    font-family: 'Lobster', cursive;
+    display: contents;
+    color: black;
+}  */
+a{
+    color: black; 
+    padding: 10px; 
+    
+}
+a:hover{
+    color: white; 
+    text-decoration: rgb(80, 12, 238); 
+    text-shadow: steelblue;
+    background-color: #57C9EB; 
+    border-radius: 8px;
+   
+} 
+/* a:visited{
+    color: thistle; 
+    background-color: tomato; 
+}  */
